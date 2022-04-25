@@ -1,6 +1,6 @@
 # 03 JavaScript: Password Generator
 
-This project was designed to create a password generator using the following criteria
+This project was designed to create a password generator using the following criteria:
 
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
